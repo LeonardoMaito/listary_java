@@ -42,5 +42,3 @@ Since this is an old project, it may require adjustments to work with the latest
 - Android Studio  
 - Java Development Kit (JDK)  
 - Firebase project with Authentication and Firestore enabled  
-
-### Steps
